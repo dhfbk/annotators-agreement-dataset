@@ -4,7 +4,7 @@ Agreeing to Disagree: Annotating Offensive Language Datasets with Annotators’ 
 
 In compliance with Twitter policy, the dataset is available for non-commercial research only (https://developer.twitter.com/en/developer-terms/policy) and cannot be used for any discriminatory purpose, event monitoring, profiling or targeting of individuals. 
 
-The dataset, in the form of tweet IDs with accompanying annotation, **can be obtained upon request to the authors**. by filling the following form: https://forms.gle/hBKTUbCR1zimNhicA.
+The dataset, in the form of tweet IDs with accompanying annotation, **can be obtained upon request to the authors** by filling the following form: https://forms.gle/hBKTUbCR1zimNhicA.
 
 Requestors will be asked to declare that they will not use the dataset to collect any sensitive category of personal information. 
 
