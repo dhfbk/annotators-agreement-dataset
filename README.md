@@ -13,18 +13,18 @@ The dataset contains more than 10k tweet IDs associated with 5 offensive/non-off
 
 If you use this dataset, please cite:
 
-@inproceedings{leonardelli-etal-2021-agreeing,
-    title = "Agreeing to Disagree: Annotating Offensive Language Datasets with Annotators{'} Disagreement",
-    author = "Leonardelli, Elisa  and
-      Menini, Stefano  and
-      Palmero Aprosio, Alessio  and
-      Guerini, Marco  and
-      Tonelli, Sara",
-    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
-    month = nov,
-    year = "2021",
-    address = "Online and Punta Cana, Dominican Republic",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2021.emnlp-main.822",
-    pages = "10528--10539",
+@inproceedings{leonardelli-etal-2021-agreeing,  
+    title = "Agreeing to Disagree: Annotating Offensive Language Datasets with Annotators{'} Disagreement",  
+    author = "Leonardelli, Elisa  and. 
+      Menini, Stefano  and <br>
+      Palmero Aprosio, Alessio  and <br>
+      Guerini, Marco  and  <br>
+      Tonelli, Sara",  
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",  
+    month = nov,  
+    year = "2021",  
+    address = "Online and Punta Cana, Dominican Republic",  
+    publisher = "Association for Computational Linguistics",  
+    url = "https://aclanthology.org/2021.emnlp-main.822",  
+    pages = "10528--10539",  
 }
