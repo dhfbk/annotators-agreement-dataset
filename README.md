@@ -1,6 +1,6 @@
 This page refers to the dataset presented in the paper:
 
-Agreeing to Disagree: Annotating Offensive Language Datasets with Annotators’ Disagreement. *Elisa Leonardelli, Stefano Menini, Alessio Palmero Aprosio, Marco Guerini and Sara Tonelli*, To appear in Proceedings of EMNLP 2021 (link to preprint: https://arxiv.org/pdf/2109.13563.pdf)
+Agreeing to Disagree: Annotating Offensive Language Datasets with Annotators’ Disagreement. *Elisa Leonardelli, Stefano Menini, Alessio Palmero Aprosio, Marco Guerini and Sara Tonelli*, In Proceedings of EMNLP 2021 (https://aclanthology.org/2021.emnlp-main.822/)
 
 In compliance with Twitter policy, the dataset is available for non-commercial research only (https://developer.twitter.com/en/developer-terms/policy) and cannot be used for any discriminatory purpose, event monitoring, profiling or targeting of individuals. 
 
