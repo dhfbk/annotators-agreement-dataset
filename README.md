@@ -1,17 +1,27 @@
-This page refers to the dataset presented in the paper:
+This page refers to two datasets:
 
+1) ** The MD-Agreement dataset ** contains more than 10k tweet IDs associated with 5 offensive/non-offensive labels from different annotators collected through Amazon Mechanical Turk. The tweets are retrieved from multi-domains (MD): Covid-19, BLM and US Elections. The text of the tweet, the individual annotations and anonymized IDs of annotators are released.
+
+This dataset has been described in the paper:
 Agreeing to Disagree: Annotating Offensive Language Datasets with Annotators’ Disagreement. *Elisa Leonardelli, Stefano Menini, Alessio Palmero Aprosio, Marco Guerini and Sara Tonelli*, In Proceedings of EMNLP 2021 (https://aclanthology.org/2021.emnlp-main.822/)
 
-In compliance with Twitter policy, the dataset is available for non-commercial research only (https://developer.twitter.com/en/developer-terms/policy) and cannot be used for any discriminatory purpose, event monitoring, profiling or targeting of individuals. 
+This dataset is also part of the datasets used for the "Learning With Disagreements" task 11 at Semeval 2023 (https://le-wi-di.github.io/). 
 
-The dataset, in the form of tweet IDs with accompanying annotation, **can be obtained upon request to the authors** by filling the following form: https://forms.gle/hBKTUbCR1zimNhicA.
+2) ** The  MD-Agreement-v2 dataset ** represent a subportion of the MD-Agreement dataset that has been further annotated. In particular, tweets containing disagreement (part of the train and the entire test) have been manually labelled by an expert linguist that judged the type of disagreement contained. The annotation follows a two levels taxonomy of disagreement. 
+The MD-Agreement-v2 dataset and the taxonomy of disagreement are presented in the paper:
 
-Requestors will be asked to declare that they will not use the dataset to collect any sensitive category of personal information. 
+Marta Sandri, Elisa Leonardelli, Sara Tonelli, and Elis- abetta Jezek. 2023. Why don’t you do it right? analysing annotators’ disagreement in subjective tasks. In Proceedings of the 2023 Conference of the European Chapter of the Association for Computational Linguistics.
 
-The dataset contains more than 10k tweet IDs associated with 5 offensive/non-offensive labels from different annotators collected through Amazon Mechanical Turk (crowd-workers' IDs are not  included in the dataset). The tweets belong to three different domains: Covid-19, BLM and US Elections. For details on how the tweets have been collected and instructions given to annotators, see the paper.
+-------
+
+In compliance with Twitter policy, the datasets are available for non-commercial research only (https://developer.twitter.com/en/developer-terms/policy) and cannot be used for any discriminatory purpose, event monitoring, profiling or targeting of individuals. 
+
+The datasets **can be obtained upon request to the authors** by filling the following form: https://forms.gle/hBKTUbCR1zimNhicA.
+Requestors will be asked to declare that they will not use the datasets to collect any sensitive category of personal information. 
 
 
-If you use this dataset, please cite:
+
+If you use the MD-Agreement dataset, please cite:
 
 @inproceedings{leonardelli-etal-2021-agreeing,  
     title = "Agreeing to Disagree: Annotating Offensive Language Datasets with Annotators{'} Disagreement",  
@@ -28,3 +38,12 @@ If you use this dataset, please cite:
     url = "https://aclanthology.org/2021.emnlp-main.822",  
     pages = "10528--10539",  
 }
+
+If you use the MD-Agreement-v2 dataset, please cite:
+@inproceedings{sandri2023,
+  title={Why Don’t You Do It Right? Analysing Annotators’ Disagreement in Subjective Tasks},
+  author={Sandri, Marta and Leonardelli, Elisa and Tonelli, Sara and Jezek, Elisabetta},
+  booktitle={Proceedings of the 2023 Conference of the European Chapter of the Association for Computational Linguistics},
+  year={2023}
+}
+
